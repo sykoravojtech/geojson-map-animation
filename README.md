@@ -1,4 +1,4 @@
-# 2022GeoJsonMapAnimation
+# GeoJson Map Animation
 Project for Charles University & Czech Government
 
 Showcase of how Czech citizens move over years 2015-2020 based on official data.
